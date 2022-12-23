@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "author": "setya",
+      "title": "test",
+      "id": 9
+    },
+    {
+      "author": "908658",
+      "title": "herlambang",
+      "id": 10
+    }
+  ],
+  "users": [
+    "any"
+  ],
+  "blogs": {
+    "any": []
+  }
+}

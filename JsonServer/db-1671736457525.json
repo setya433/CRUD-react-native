@@ -1,0 +1,65 @@
+{
+  "posts": [
+    {
+      "author": "facebook",
+      "title": "Hello",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "expo",
+      "author": "abcd"
+    },
+    {
+      "author": "typicode",
+      "title": "json-server updated",
+      "id": 3
+    },
+    {
+      "author": "Herlambang",
+      "title": "test",
+      "id": 4
+    },
+    {
+      "author": "blydtusuxtuc",
+      "title": ".lfkydyidyiiv",
+      "id": 5
+    },
+    {
+      "author": ",bljvkcttc",
+      "title": "bljkyyc",
+      "id": 6
+    },
+    {
+      "author": "f df df df df ",
+      "title": "dvsdfvsdf ",
+      "id": 7
+    },
+    {
+      "author": "dsvvSDvSDFb",
+      "title": "a;aksxbajdsc",
+      "id": 8
+    },
+    {
+      "author": "setya",
+      "title": "test",
+      "id": 9
+    },
+    {
+      "author": "vsdvsdvsdv",
+      "title": "sdvsv",
+      "id": 10
+    },
+    {
+      "author": "vsdvSDbsf sf ",
+      "title": "csdvsdv",
+      "id": 11
+    }
+  ],
+  "users": [
+    "any"
+  ],
+  "blogs": {
+    "any": []
+  }
+}
